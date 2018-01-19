@@ -18,3 +18,7 @@ pip install --upgrade tensorflow
 # step 6: Done. To exit using 'deactivate'
 
 # git repo: git@github.com:ronhuafeng/udacity-deep-learning.git
+
+
+# install Jupyter
+pip install jupyter
