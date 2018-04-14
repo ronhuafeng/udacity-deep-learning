@@ -34,3 +34,9 @@ https://developer.nvidia.com/cuda-downloads?target_os=Linux
 # pip upgrade all
 pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U
 
+# pip aliyun source
+vi~/.pip/pip.conf
+
+[global]
+trusted-host =  mirrors.aliyun.com
+index-url = http://mirrors.aliyun.com/pypi/simple
