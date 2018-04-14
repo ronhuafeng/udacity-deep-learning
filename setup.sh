@@ -22,3 +22,11 @@ pip install --upgrade tensorflow
 
 # install Jupyter
 pip install jupyter
+
+# Ubuntu Setup
+
+## install nvidia-driver
+sudo add-apt-repository ppa:graphics-drivers/ppa
+ 
+## install cuda dirver
+https://developer.nvidia.com/cuda-downloads?target_os=Linux
