@@ -25,6 +25,9 @@ pip install jupyter
 
 # Ubuntu Setup
 
+## [A detailed tutorial](https://sthsf.github.io/wiki/Algorithm/DeepLearning/Tensorflow%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Tensorflow%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86---Tensorflow-gpu%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85.html)
+
+
 ## install nvidia-driver
 sudo add-apt-repository ppa:graphics-drivers/ppa
  
