@@ -88,3 +88,7 @@ Python 3.2.3 (default, Oct 19 2012, 19:53:16)
 [GCC 4.7.2] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 ```
+
+`source /usr/local/bin/virtualenvwrapper.sh`
+
+`workon tensorflow` to enter 'tensorflow' environment.
